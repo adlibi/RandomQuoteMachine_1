@@ -30,13 +30,12 @@ Both implementations use objects to store the quotes and their respective author
 &nbsp;
 &nbsp;
 ### App Requirements
-![Req part 1](Assets/25_5_Clock_Req_1.png)
-![Req part 2](Assets/25_5_Clock_Req_2.png)
-![Req part 3](Assets/25_5_Clock_Req_3.png)
-![Req part 4](Assets/25_5_Clock_Req_4.png)
+![Req part 1](Assets/RandomQuoteReq_1.png)
+![Req part 2](Assets/RandomQuoteReq_2.png)
+
 
 &nbsp;
 &nbsp;
 ### App Mock Up
 
-![App mock up](Assets/25_5_Clock_Mock_Up.png)
+![App mock up](Assets/RandomQuoteMockUp.png)
